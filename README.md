@@ -7,7 +7,7 @@
 ## Description
 Select ID, view Bar Chart and Bubble Chart
 
-![app_image]("static/images/Dashboard.png")
+![app_image](static/images/Dashboard.png)
 
 ## Table of Contents
 - [Installation](#installation)
