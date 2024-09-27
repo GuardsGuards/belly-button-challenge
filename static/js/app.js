@@ -1,6 +1,6 @@
 const url = "https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json";
 
-const optionChanged = async option => {
+const init = async option => {
 
     let { names, metadata, samples } = await d3.json(url);
 
@@ -71,4 +71,6 @@ const optionChanged = async option => {
 
 };
 
-optionChanged();
+init();
+
+const optionChanged = option => init(option);
