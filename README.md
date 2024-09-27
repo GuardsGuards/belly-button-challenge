@@ -7,7 +7,7 @@
 ## Description
 Select ID, view Bar Chart and Bubble Chart
 
-![app_image]("C:\Users\npwol\OneDrive\Desktop\Module 14\belly-button-challenge\static\images")
+![app_image]("static/images/Dashboard.png")
 
 ## Table of Contents
 - [Installation](#installation)
